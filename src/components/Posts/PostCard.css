@@ -1,0 +1,20 @@
+.post-title {
+    font-size: 14px;
+}
+
+.post-desc {
+    font-size: 12px;
+    width: 70%;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+
+.post-author {
+    font-size: 12px;
+}
+
+.comment-card {
+    overflow-y: auto;
+    height: 200px;
+}

@@ -1,0 +1,21 @@
+.sticky {
+    position: fixed;
+    top: 0;
+    width: 86%;
+    background-color: white;
+    padding: 20px;
+    box-shadow: 15px -10px 5px 12px rgba(0, 0, 0, 0.1);
+    z-index: 1;
+}
+
+.flex-1 {
+    flex: 1;
+}
+
+.d-inherit {
+    display: inherit;
+}
+
+.text-nowrap {
+    white-space: nowrap;
+}
